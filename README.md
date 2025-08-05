@@ -78,17 +78,3 @@ If the Codebreaker runs out of guesses (typically 10), the Codemaker wins the ro
 
 <h3>🛠️ Technologies Used</h3>
 Ruby
-
-More Game Options:
-
-Allow different code lengths.
-
-Allow different numbers of colors.
-
-Option for blank spaces in the code.
-
-Player Names: Allow players to enter their names instead of just "Player 1" and "Player 2".
-
-Save/Load Game State: Implement functionality to save and load game progress.
-
-Feel free to explore the code, contribute, or suggest further improvements!
