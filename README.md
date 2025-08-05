@@ -28,6 +28,7 @@ Make sure you have Ruby installed on your system. You can download it from ruby-
 </ol>
 
 <h4>Gameplay</h4>
+
 The game will first ask you to enter the number of rounds you wish to play.
 
 It will then announce which player (Player 1 or Player 2) starts as the Codebreaker. The other player is implicitly the Codemaker for that round.
@@ -49,6 +50,7 @@ Players switch roles for the next round.
 After all rounds are played, the final scores are displayed, and the winner is announced.
 
 <h3>🎯 Mastermind Rules (Brief Overview)</h3>
+
 The objective of Mastermind is for the Codebreaker to guess the Codemaker's secret 4-color code.
 
 The Codemaker secretly sets a code using a combination of 4 colored pegs. Duplicate colors are allowed.
