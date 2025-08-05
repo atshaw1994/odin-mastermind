@@ -1,4 +1,4 @@
-#Mastermind Console Game
+<h1>Mastermind Console Game<h1>
 This is a console-based implementation of the classic logic game Mastermind, built entirely in Ruby. Challenge a friend to see who can be the best codebreaker!
 
 🎮 Features
