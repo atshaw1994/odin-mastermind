@@ -1,7 +1,7 @@
-<h1>Mastermind Console Game<h1>
+<h1>Mastermind Console Game</h1>
 This is a console-based implementation of the classic logic game Mastermind, built entirely in Ruby. Challenge a friend to see who can be the best codebreaker!
 
-🎮 Features
+<h3>🎮 Features</h3>
 Random Secret Code Generation: A new, random 4-color secret code is generated for each round using a set of 8 possible colors.
 
 Accurate Scoring Logic: Implements the correct Mastermind "black" and "white" peg feedback system to guide the codebreaker.
@@ -20,7 +20,7 @@ Guess Limit: Each codebreaker has 10 guesses per round to crack the code.
 
 User-Friendly Interface: Simple text-based input and output for an engaging console experience.
 
-🚀 How to Play
+<h3>🚀 How to Play</h3>
 Prerequisites
 
 Make sure you have Ruby installed on your system. You can download it from ruby-lang.org.
@@ -57,7 +57,7 @@ Players switch roles for the next round.
 
 After all rounds are played, the final scores are displayed, and the winner is announced.
 
-🎯 Mastermind Rules (Brief Overview)
+<h3>🎯 Mastermind Rules (Brief Overview)</h3>
 The objective of Mastermind is for the Codebreaker to guess the Codemaker's secret 4-color code.
 
 The Codemaker secretly sets a code using a combination of 4 colored pegs. Duplicate colors are allowed.
@@ -76,10 +76,10 @@ The Codebreaker wins if they guess the exact code (4 black pegs).
 
 If the Codebreaker runs out of guesses (typically 10), the Codemaker wins the round.
 
-🛠️ Technologies Used
+<h3>🛠️ Technologies Used</h3>
 Ruby
 
-✨ Future Enhancements
+<h3>✨ Future Enhancements</h3>
 Graphical User Interface (GUI): Implement a visual board using a Ruby GUI library (e.g., Shoes, Ruby2D).
 
 Codebreaker Mode: Allow the computer to act as the Codebreaker, using an algorithm to solve the code.
