@@ -79,11 +79,6 @@ If the Codebreaker runs out of guesses (typically 10), the Codemaker wins the ro
 <h3>🛠️ Technologies Used</h3>
 Ruby
 
-<h3>✨ Future Enhancements</h3>
-Graphical User Interface (GUI): Implement a visual board using a Ruby GUI library (e.g., Shoes, Ruby2D).
-
-Codebreaker Mode: Allow the computer to act as the Codebreaker, using an algorithm to solve the code.
-
 More Game Options:
 
 Allow different code lengths.
